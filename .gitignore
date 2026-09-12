@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Anki media cache / user data
+collection.media/
+
+# Editor
+.omp/
+.idea/
+.vscode/
