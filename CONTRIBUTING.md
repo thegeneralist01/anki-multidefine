@@ -11,6 +11,8 @@ Thanks for your interest in contributing.
    git clone https://github.com/thegeneralist01/anki-multidefine.git
    cd anki-multidefine
    ```
+> **Just want to use the add-on?** Install via AnkiWeb: Tools → Add-ons → Get Add-ons → `755799523`. The steps below are for contributors only.
+
 
 2. **Symlink into Anki**
    ```bash
