@@ -55,7 +55,7 @@ class WiktionaryRussianProvider(DictionaryProvider):
         _wiki_headers = {
             'User-Agent': (
                 'MultiDefine/1.0 (Anki add-on; '
-                'https://github.com/thegeneralist/anki-multi-language-auto-define)'
+                'https://github.com/thegeneralist01/anki-multidefine)'
             )
         }
         response = net.http_get(url, headers=_wiki_headers)
